@@ -31,7 +31,7 @@ Start mixing
 
 To start localhost
     
-    php artisan key:generate
+    php artisan serve
 ## Test
 
 To execute all test:
